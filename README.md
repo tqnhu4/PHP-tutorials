@@ -24,7 +24,7 @@ When learning and developing with PHP, consulting reliable resources and practic
 * **Resource Name:** Awesome PHP
 * **Description:** This is a curated list of awesome PHP libraries, resources, frameworks, CMS, and other tools. It's an excellent starting point for exploring what the PHP ecosystem has to offer.
 * **Link:** 
-[PHP is slower than Node.js](./L1.md)
+- [PHP is slower than Node.js](./L1.md)
 
 
 
